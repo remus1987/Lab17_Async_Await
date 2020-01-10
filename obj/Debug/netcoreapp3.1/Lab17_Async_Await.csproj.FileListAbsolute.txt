@@ -1,0 +1,11 @@
+C:\Users\Remus Iftimie\Personal_GitHub\Lab17_Async_Await\bin\Debug\netcoreapp3.1\Lab17_Async_Await.exe
+C:\Users\Remus Iftimie\Personal_GitHub\Lab17_Async_Await\bin\Debug\netcoreapp3.1\Lab17_Async_Await.deps.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab17_Async_Await\bin\Debug\netcoreapp3.1\Lab17_Async_Await.runtimeconfig.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab17_Async_Await\bin\Debug\netcoreapp3.1\Lab17_Async_Await.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab17_Async_Await\bin\Debug\netcoreapp3.1\Lab17_Async_Await.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab17_Async_Await\bin\Debug\netcoreapp3.1\Lab17_Async_Await.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Lab17_Async_Await\obj\Debug\netcoreapp3.1\Lab17_Async_Await.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab17_Async_Await\obj\Debug\netcoreapp3.1\Lab17_Async_Await.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab17_Async_Await\obj\Debug\netcoreapp3.1\Lab17_Async_Await.AssemblyInfo.cs
+C:\Users\Remus Iftimie\Personal_GitHub\Lab17_Async_Await\obj\Debug\netcoreapp3.1\Lab17_Async_Await.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab17_Async_Await\obj\Debug\netcoreapp3.1\Lab17_Async_Await.pdb
